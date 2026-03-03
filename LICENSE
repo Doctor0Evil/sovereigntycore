@@ -1,0 +1,38 @@
+ALN Sovereign License (ASL-1.0)
+
+Copyright (c) 2026 ALN Sovereign Stack Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. SOVEREIGNTY CLAUSE: All derivatives must maintain ledger-attested governance
+   and cannot remove or bypass NDM, ROW/RPM, or Cyberspectre introspection.
+
+2. NON-WEAPONIZATION CLAUSE: No derivative may enable weaponization of Nanoswarm,
+   Googolswarm, or any augmented-citizen capability. Forbidden capability
+   combinations must remain enforced.
+
+3. AUDITABILITY CLAUSE: All modifications must produce Cyberspectre traces
+   and ROW/RPM ledger entries for governance actions.
+
+4. OFFLINE-FIRST CLAUSE: All derivatives must support offline operation
+   without dependency on remote services for enforcement.
+
+5. DID ANCHORING CLAUSE: All code must support Bostrom DID authentication
+   and multi-signature envelopes.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Hex-Stamp: 0x8b4f0e3d2c9a5b7f6e1d0c9b8a7f6e5d4c3b2a19f8e7d6c5b4a3928170f6e5d4
+Ledger Reference: row:sovereigntycore:license:v1.0:2026-03-04
